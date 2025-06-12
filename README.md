@@ -33,8 +33,8 @@ Organized measures into folders (`Basic Measures`, `Average Measures`, etc.) to 
 ## Project Structure
 
 - `PowerBI_Files/Healthcare_Dashboard.pbix` – Power BI file
-- `Dataset/hospital_data.xlsx` – Sample dataset (mock data)
-- `Screenshots/` – Dashboard and DAX structure images
+- `Dataset/hospital_data.xlsx` – Sample datasets
+- `Screenshots/` – Dashboard 
 
 ## Sample Dashboard
 
