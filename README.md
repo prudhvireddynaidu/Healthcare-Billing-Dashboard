@@ -26,7 +26,7 @@ Created a dedicated DAX Calculation table to structure all custom measures, incl
 
 - Basic Financial Metrics: Total Billing, Medication Cost, Treatment Cost, Room Charges, Out-of-Pocket, etc.
 - Percentage Metrics: Billing percentage by department and procedure
-- Departmental and Patient KPIs: Average stay, patient volumes (if included), and blank measure placeholders for flexibility
+- Departmental and Patient KPIs: Average stay and blank measure placeholders for flexibility
 
 Organized measures into folders (`Basic Measures`, `Average Measures`, etc.) to enhance model clarity and maintainability.
 
