@@ -40,7 +40,7 @@ Organized measures into folders (`Basic Measures`, `Average Measures`, etc.) to 
 
 ![Dashboard Overview](Dashboard_Overview.png)
 
-## 🔍 Key Learnings
+## Key Learnings
 
 - Built measures to calculate procedure-specific billing
 - Used stacked bar charts and clustered columns for comparative insights
