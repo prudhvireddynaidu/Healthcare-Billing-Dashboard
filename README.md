@@ -38,7 +38,7 @@ Organized measures into folders (`Basic Measures`, `Average Measures`, etc.) to 
 
 ## Sample Dashboard
 
-![Dashboard Overview](Dashboard_Overview.png)
+![Dashboard Overview](./Screenshot/Dashboard_Overview.png)
 
 ## Key Learnings
 
